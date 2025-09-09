@@ -1,0 +1,11 @@
+C:\Users\jusd\source\repos\PruebaApp\Prueba.Domain\bin\Debug\net8.0\Prueba.Domain.deps.json
+C:\Users\jusd\source\repos\PruebaApp\Prueba.Domain\bin\Debug\net8.0\Prueba.Domain.dll
+C:\Users\jusd\source\repos\PruebaApp\Prueba.Domain\bin\Debug\net8.0\Prueba.Domain.pdb
+C:\Users\jusd\source\repos\PruebaApp\Prueba.Domain\obj\Debug\net8.0\Prueba.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jusd\source\repos\PruebaApp\Prueba.Domain\obj\Debug\net8.0\Prueba.Domain.AssemblyInfoInputs.cache
+C:\Users\jusd\source\repos\PruebaApp\Prueba.Domain\obj\Debug\net8.0\Prueba.Domain.AssemblyInfo.cs
+C:\Users\jusd\source\repos\PruebaApp\Prueba.Domain\obj\Debug\net8.0\Prueba.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jusd\source\repos\PruebaApp\Prueba.Domain\obj\Debug\net8.0\Prueba.Domain.dll
+C:\Users\jusd\source\repos\PruebaApp\Prueba.Domain\obj\Debug\net8.0\refint\Prueba.Domain.dll
+C:\Users\jusd\source\repos\PruebaApp\Prueba.Domain\obj\Debug\net8.0\Prueba.Domain.pdb
+C:\Users\jusd\source\repos\PruebaApp\Prueba.Domain\obj\Debug\net8.0\ref\Prueba.Domain.dll

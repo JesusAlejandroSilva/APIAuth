@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Prueba.Api.Controllers.AuthController",
+    "Method": "GetUsers",
+    "RelativePath": "api/pruebatecnica/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Prueba.Api.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/pruebatecnica/users/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Prueba.Api.Controllers.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
